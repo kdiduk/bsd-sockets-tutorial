@@ -81,7 +81,9 @@ Let's create a small program that accepts incoming TCP connections.
 
 <a id="1">[1]</a>
 [IEEE Std 1003.1-2017 (POSIX.1-2017)](https://pubs.opengroup.org/onlinepubs/9699919799/)
+
 <a id="2">[2]</a>
 [Glenn Fiedler, Sending and Receiving Packets](https://gafferongames.com/post/sending_and_receiving_packets/)
+
 <a id="3">[3]</a>
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
